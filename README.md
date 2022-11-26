@@ -1,6 +1,6 @@
 
 ## Olá! Eu sou o Manuel Benedito 🤙 😎
-### Técnico de Informática, estudante de Tecnologia!
+### 💻 Técnico de Informática, estudante de Tecnologia!
 ### ❤️ Eterno apaixonado por TI ❤️
 
 ### Linguas
