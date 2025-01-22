@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Manuel Benedito 🤙 😎
 ### 💻 Técnico de Informática, estudante de Tecnologia!
-### ❤️ Eterno apaixonado por TI ❤️
+### Buy me a coffee!
 
 ### Linguas
 🇦🇴 Português | 🇺🇸 English (Basic)
@@ -30,19 +30,4 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-</div>
-
-## Ambiente de desenvolvimento que uso e ja usei
-<div style="display: display_block">
-  <img align="center" alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
-  <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img align="center" alt="Notpad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-  <img align="center" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-  <img align="center" align="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img align="center" align="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</div>
-
-## Controle de Versão
-<div style="display: display_block">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
