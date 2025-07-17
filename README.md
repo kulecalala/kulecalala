@@ -1,11 +1,5 @@
 
-## Olá! Eu sou o Manuel Benedito 🤙 😎
-### 💻 Técnico de Informática, estudante de Tecnologia!
-### Buy me a coffee!
-
-### Linguas
-🇦🇴 Português | 🇺🇸 English (Basic)
-
+## Olá! Eu sou o Kule Boy 🤙
 ## Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100085309916096)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](manuelbenedito2511@gmail.com)
